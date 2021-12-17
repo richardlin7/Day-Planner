@@ -83,3 +83,8 @@ textarea{
   font-size: 40px;
   transition: all .3s ease-in-out;
 }
+
+.footer {
+  text-align: center;
+
+}
